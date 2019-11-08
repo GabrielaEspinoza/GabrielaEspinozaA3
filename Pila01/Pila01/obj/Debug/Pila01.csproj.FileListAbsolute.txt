@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\Pila01\Pila01\obj\Debug\Pila01.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Pila01\Pila01\bin\Debug\Pila01.exe.config
+C:\Users\lenovo\source\repos\Pila01\Pila01\bin\Debug\Pila01.exe
+C:\Users\lenovo\source\repos\Pila01\Pila01\bin\Debug\Pila01.pdb
+C:\Users\lenovo\source\repos\Pila01\Pila01\obj\Debug\Pila01.exe
+C:\Users\lenovo\source\repos\Pila01\Pila01\obj\Debug\Pila01.pdb
