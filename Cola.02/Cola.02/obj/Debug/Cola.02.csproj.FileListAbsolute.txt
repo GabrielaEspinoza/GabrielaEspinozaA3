@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\Cola.02\Cola.02\bin\Debug\Cola.02.exe.config
+C:\Users\lenovo\source\repos\Cola.02\Cola.02\bin\Debug\Cola.02.exe
+C:\Users\lenovo\source\repos\Cola.02\Cola.02\bin\Debug\Cola.02.pdb
+C:\Users\lenovo\source\repos\Cola.02\Cola.02\obj\Debug\Cola.02.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Cola.02\Cola.02\obj\Debug\Cola.02.exe
+C:\Users\lenovo\source\repos\Cola.02\Cola.02\obj\Debug\Cola.02.pdb
